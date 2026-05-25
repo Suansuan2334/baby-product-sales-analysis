@@ -28,8 +28,13 @@
 | 价格带分析 | 100-200元价格带贡献45%销售额 | 选品聚焦此区间 |
 
 ## 截图
-![销量分析](<img width="1363" height="534" alt="image" src="https://github.com/user-attachments/assets/a60ec65e-af37-496f-b238-6990a713bd26" />)
-![趋势分析](<img width="1346" height="710" alt="image" src="https://github.com/user-attachments/assets/16ada184-6f5d-4348-bb43-ab9a47c02c19" />)
-![同环比](<img width="1380" height="777" alt="image" src="https://github.com/user-attachments/assets/70a33471-14d0-4417-ad34-fbd0dd19cc0f" />)
-![品牌集中度](<img width="1368" height="701" alt="image" src="https://github.com/user-attachments/assets/46a0d63a-bbce-4d85-ba8e-48a9b86a3a97" />)
-![价格带](<img width="1367" height="707" alt="image" src="https://github.com/user-attachments/assets/68cab72c-0b34-4995-bb19-519426db9305" />)
+
+![销量分析](https://github.com/user-attachments/assets/a60ec65e-af37-496f-b238-6990a713bd26)
+
+![趋势分析](https://github.com/user-attachments/assets/16ada184-6f5d-4348-bb43-ab9a47c02c19)
+
+![同环比](https://github.com/user-attachments/assets/70a33471-14d0-4417-ad34-fbd0dd19cc0f)
+
+![品牌集中度](https://github.com/user-attachments/assets/46a0d63a-bbce-4d85-ba8e-48a9b86a3a97)
+
+![价格带](https://github.com/user-attachments/assets/68cab72c-0b34-4995-bb19-519426db9305)
