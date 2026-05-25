@@ -28,8 +28,8 @@
 | 价格带分析 | 100-200元价格带贡献45%销售额 | 选品聚焦此区间 |
 
 ## 截图
-![销量分析](./screenshots/01_销量分析_孕妇装占比19%.png)
-![趋势分析](./screenshots/02_趋势分析_3月暴涨109%.png)
-![同环比](./screenshots/03_同环比_1月暴跌26%.png)
-![品牌集中度](./screenshots/04_品牌集中度_TOP3占比58%.png)
-![价格带](./screenshots/05_价格带_主力区间100-200元.png)
+![销量分析](<img width="1363" height="534" alt="image" src="https://github.com/user-attachments/assets/a60ec65e-af37-496f-b238-6990a713bd26" />)
+![趋势分析](<img width="1346" height="710" alt="image" src="https://github.com/user-attachments/assets/16ada184-6f5d-4348-bb43-ab9a47c02c19" />)
+![同环比](<img width="1380" height="777" alt="image" src="https://github.com/user-attachments/assets/70a33471-14d0-4417-ad34-fbd0dd19cc0f" />)
+![品牌集中度](<img width="1368" height="701" alt="image" src="https://github.com/user-attachments/assets/46a0d63a-bbce-4d85-ba8e-48a9b86a3a97" />)
+![价格带](<img width="1367" height="707" alt="image" src="https://github.com/user-attachments/assets/68cab72c-0b34-4995-bb19-519426db9305" />)
