@@ -18,6 +18,7 @@
 
 ### 月度同环比波动分析
 <img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/9fe2855e-074e-4e60-90d3-8b0337a9ff9f" />
+
 **一、整体波动特征**
 
 2020年3月至2021年6月共16个月中，环比上涨月份9个，环比下跌月份7个，整体波动幅度较大，单月最大涨幅109.06%（2020年3月），最大跌幅-26.49%（2021年1月）。
@@ -56,6 +57,7 @@
 
 ### 长期趋势与周期性分析（2020-2024年）
 <img width="1375" height="771" alt="image" src="https://github.com/user-attachments/assets/473e6c1a-df30-436f-8d8b-7cd9e9eabba9" />
+
 **一、整体增长趋势**
 
 - 2020年1月成交量约850万，2024年12月约2750万，**5年增长约3.2倍**
@@ -114,6 +116,7 @@
 
 ### 品牌集中度分析（帕累托分析）
 <img width="1375" height="703" alt="image" src="https://github.com/user-attachments/assets/50324e4c-7cb8-4cf0-978c-0a9a2119421e" />
+
 **一、TOP品牌识别**
 
 | 排名 | 品牌名称 | 销售额指数 | 累计占比 |
