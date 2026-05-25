@@ -28,7 +28,7 @@
 | 价格带分析 | 100-200元价格带贡献45%销售额 | 选品聚焦此区间 |
 
 ## 截图
-
+👉 [查看详细分析报告](./DETAILED-ANALYSIS.md)
 ![销量分析](https://github.com/user-attachments/assets/a60ec65e-af37-496f-b238-6990a713bd26)
 
 ![趋势分析](https://github.com/user-attachments/assets/16ada184-6f5d-4348-bb43-ab9a47c02c19)
